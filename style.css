@@ -1,0 +1,55 @@
+
+         body {background-color: #eeeeee;
+               font-family: "Avenir";
+              }
+        h1 {font-family: "Avenir";}
+        h3 {font-family: "Avenir";}
+
+
+
+        .container
+        {
+            float:left;
+            margin: 30px;
+            padding: 20px;
+            max-width: 500px;
+            height: 450px;
+            border: 1px solid black;
+                    background-color: #c5e1a5;
+            box-shadow: 3px 3px 3px #888888;
+        }
+
+
+        .title
+        {
+            text-align: center;
+            float:center;
+            margin: 10px;
+            padding: 10px;
+            max-width: 1200px;
+            height: 90px;
+            border: 1px solid black;
+                    background-color: grey;
+            box-shadow:  5px 5px 5px #888888;
+        }
+
+        .TBL
+        {
+            clear: right;
+            margin: 30px;
+            padding: 20px;
+            max-width: 500px;
+            height: 450px;
+            border: 1px solid black;
+                    background-color: #c5e1a5;
+            box-shadow: 3px 3px 3px #888888;
+
+        }
+
+
+        img
+          {
+            margin: 0 auto;
+            display: block;
+          }
+
